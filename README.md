@@ -9,3 +9,6 @@ Steps
 2. Login with your email
 3. Open course and mark attendance 
 
+For any issues contact support , support@acity.edu.gh
+
+#attendance
